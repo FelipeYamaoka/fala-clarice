@@ -18,7 +18,6 @@ export default function App() {
     "Toda mulher leva um sorriso no rosto e mil segredos no coração.",
     "Não tenho tempo pra mais nada, ser feliz me consome muito.",
     "Ela acreditava em anjo e, porque acreditava, eles existiam.",
-    "Eu gosto de leitinho na boquinha, de rolinha na bundinha, de bater uma na cozinha e de comer a minha vizinha,"
   ];
 
   const iniciaFala = () => {
